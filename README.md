@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Adityadeb7
+- 👀 I’m interested in physics-coding-cricket ...
+- 🌱 I’m currently studying at std 9...
+- 📫 How to reach me adityadeb7777@gmail.com ...
+
+<!---
+Adityadeb7/Adityadeb7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
